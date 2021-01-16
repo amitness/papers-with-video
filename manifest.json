@@ -5,9 +5,6 @@
   "author": "Amit Chaudhary <meamitkc@gmail.com>",
   "homepage_url": "https://github.com/amitness/papers-with-video",
   "manifest_version": 2,
-  "permissions": [
-    "storage"
-  ],
   "content_scripts": [
     {
       "matches": [

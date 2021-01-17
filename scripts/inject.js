@@ -3762,7 +3762,7 @@ var arxivID = rawArxivID.split('v')[0];
 // Add a video icon to the title if the paper is present in our mapping.
 if (arxivID in mapping) {
     var videoLink = mapping[arxivID];
-    var videoButton = '<a style="padding-left: 3px; color:black; text-decoration: none;" href="' + videoLink + '">📹</a>';
+    var videoButton = '<a style="padding-left: 3px; color:black; text-decoration: none;" target="_blank" rel="noopener noreferrer" href="' + videoLink + '">📹</a>';
     var paperTitle = document.querySelector("h1.title");
     paperTitle.innerHTML = paperTitle.innerHTML + videoButton;
 }

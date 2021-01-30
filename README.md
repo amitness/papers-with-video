@@ -2,11 +2,13 @@
 
 ![](/images/screenshot.png)
 
+The extension currently supports videos for [3700](http://bit.ly/supported-papers) papers.
+
 ## Manual Installation
 To install the extension, please follow the steps given below. You can also watch the video installation walkthrough by [1LittleCoder](https://www.youtube.com/watch?v=-BUrP7HmnhA).
 
 1. Download the extension zip file from [here](https://github.com/amitness/papers-with-video/archive/main.zip).
-2. Extract the `main.zip` file into a folder.
+2. Extract the `papers-with-video-main.zip` file into a folder.
 3. Open the extensions page on Chrome either by 
   - Typing `chrome://extensions` on the navbar
   - Selecting `Menu > More Tools > Extensions`.

@@ -17,6 +17,9 @@
       "run_at": "document_end"
     }
   ],
+  "web_accessible_resources": [
+    "data/mapping.json"
+  ],
   "icons": {
     "144": "images/icon.png"
   },

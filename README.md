@@ -4,6 +4,9 @@
 
 The extension currently supports videos for [3700](http://bit.ly/supported-papers) papers.
 
+## Install
+- [Chrome Web Store](https://chrome.google.com/webstore/detail/papers-with-video/aflnhgmklenfljibnfellgkmdpmmoekf)
+
 ## Manual Installation
 To install the extension, please follow the steps given below. You can also watch the video installation walkthrough by [1LittleCoder](https://www.youtube.com/watch?v=-BUrP7HmnhA).
 

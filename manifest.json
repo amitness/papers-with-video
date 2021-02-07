@@ -1,6 +1,6 @@
 {
   "name": "papers-with-video",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "Show video explanations for research papers",
   "author": "Amit Chaudhary <meamitkc@gmail.com>",
   "homepage_url": "https://github.com/amitness/papers-with-video",

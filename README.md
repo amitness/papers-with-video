@@ -2,7 +2,7 @@
 
 ![](/images/screenshot.png)
 
-The extension currently supports videos for [4267](http://bit.ly/supported-papers) papers.
+The extension currently supports videos for [4333](http://bit.ly/supported-papers) papers.
 
 ## Install
 - [Chrome Web Store](https://chrome.google.com/webstore/detail/papers-with-video/aflnhgmklenfljibnfellgkmdpmmoekf)

@@ -12,7 +12,7 @@ xhr.onreadystatechange = function () {
         addVideoIcon(paperMapping);
     }
 };
-xhr.open("GET", chrome.extension.getURL('/data/mapping.json'), true);
+xhr.open("GET", chrome.runtime.getURL('/data/mapping.json'), true);
 xhr.send();
 
 

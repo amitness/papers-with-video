@@ -1,4 +1,4 @@
-# papers-with-video
+# papers-with-video ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/aflnhgmklenfljibnfellgkmdpmmoekf?label=users)
 
 ![](/images/screenshot.png)
 

@@ -1,8 +1,9 @@
 # papers-with-video [![Chrome Web Store](https://img.shields.io/chrome-web-store/users/aflnhgmklenfljibnfellgkmdpmmoekf?label=users)](https://chrome.google.com/webstore/detail/papers-with-video/aflnhgmklenfljibnfellgkmdpmmoekf)
 
 <p align="center">
-<img src="/images/screenshot.png" width="960"/>
+<img src="https://github.com/amitness/papers-with-video/assets/8587189/e0310e14-9b6f-430f-80d7-e71101ebb55e" width="960"/>
 </p>
+
 
 A browser extension that links video explanations to research papers on arxiv.org
 
